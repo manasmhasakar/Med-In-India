@@ -1,0 +1,23 @@
+.hospital-name .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: #004763 !important;
+  background: #fff;
+  font: normal normal bold 16px/25px Poppins;
+  border-bottom: 2px solid #004763;
+  border-left: none !important;
+  border-top: none !important;
+  border-right: none !important;
+  border-color: unset !important;
+}
+
+.hospital-name .nav-tabs {
+  border-bottom: none !important;
+}
+
+.hospital-name .nav-link {
+  font: normal normal normal 16px/25px Poppins;
+  color: #444444;
+}
+
+.hospital-name .nav-tabs .nav-link:hover {
+}

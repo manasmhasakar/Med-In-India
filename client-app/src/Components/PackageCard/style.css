@@ -1,0 +1,16 @@
+.hospital-card {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/34/Jehangir_Hospital_Building.jpg");
+  background-size: contain;
+}
+
+.hospital-sub-card {
+  background-image: url("https://i.pinimg.com/originals/ab/a0/b1/aba0b15cac7e0c224415d533ca8be73e.jpg");
+}
+
+.card-content-pkg {
+  display: flex;
+  flex-direction: column;
+  margin: 1%;
+  padding: 1%;
+  width: 100%;
+}
